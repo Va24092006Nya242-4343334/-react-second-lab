@@ -15,7 +15,7 @@ const cardsData = [
       id: 3,
       title: "Гірський пейзаж",
       description: "Краєвид величних гір під яскравим сонячним небом.",
-      image: "https://images.unsplash.com/photo-1600493304552-106fc07c2883?w=400&h=300&fit=crop"
+      image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tutkit.com%2Fuk%2Ftekstovi-uroki%2F180-girske-foto-teil-02-klasicnii-girskii-peizaz-texnika-pobudova-zobrazen&psig=AOvVaw27bz_l8_HmhF9IId_WMwGz&ust=1741385091067000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjfuJO79osDFQAAAAAdAAAAABAE"
     },
     {
       id: 4,
