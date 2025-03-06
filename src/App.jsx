@@ -1,17 +1,15 @@
 import React from "react";
 import CardList from "./components/CardList/CardList";
-import { cardsData } from "./data";
+import cardsData from "./data";
 import "./App.css";
 
-function App() {
+const App = () => {
   return (
-    <main className="App">
-      <header>
-        <h1 className="title">Космічні Таємниці</h1>
-      </header>
+    <div>
+      <h1>Галерея карток</h1>
       <CardList cards={cardsData} />
-    </main>
+    </div>
   );
-}
+};
 
 export default App;

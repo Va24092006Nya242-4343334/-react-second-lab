@@ -1,33 +1,35 @@
-export const cardsData = [
+const cardsData = [
     {
       id: 1,
-      title: "Марс",
-      description: "Червона планета, що має найбільший вулкан у Сонячній системі - Олімп Монс.",
-      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mars_Valles_Marineris_EDIT.jpg/274px-Mars_Valles_Marineris_EDIT.jpg"
+      title: "Лісова прогулянка",
+      description: "Затишний лісовий пейзаж для відпочинку на природі.",
+      image: "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?w=400&h=300&fit=crop"
     },
     {
       id: 2,
-      title: "Сатурн",
-      description: "Відома своїми красивими кільцями, що складаються з крижаних уламків.",
-      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Saturn_-_April_25_2016_%2837612580000%29.png/1200px-Saturn_-_April_25_2016_%2837612580000%29.png"
+      title: "Місто вночі",
+      description: "Нічне місто з яскравими вогнями та неймовірною атмосферою.",
+      image: "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?w=400&h=300&fit=crop"
     },
     {
       id: 3,
-      title: "Юпітер",
-      description: "Газовий гігант із великим червоним штормом, що триває століттями.",
-      image: "https://dovidka.biz.ua/wp-content/uploads/2015/10/yupiter-intersenie-fakti.jpg"
+      title: "Гірський пейзаж",
+      description: "Краєвид величних гір під яскравим сонячним небом.",
+      image: "https://images.unsplash.com/photo-1600493304552-106fc07c2883?w=400&h=300&fit=crop"
     },
     {
       id: 4,
-      title: "Нептун",
-      description: "Найвіддаленіша планета Сонячної системи, відома своїми сильними вітрами.",
-      image: "https://cdn.drukarnia.com.ua/671817a35a00fc28df900176/images/articles/6726522c5a00fc28dfb1d356/HYv0438022.1668232216.jpeg"
+      title: "Морський берег",
+      description: "Спокійний пляж із чистою водою та м'яким піском.",
+      image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400&h=300&fit=crop"
     },
     {
       id: 5,
-      title: "Венера",
-      description: "Найгарячіша планета з атмосферою, що складається переважно з вуглекислого газу.",
-      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU3McSytZFcxAqzZHBxO7-cPJMqH2vfmx0nA&s"
+      title: "Захід сонця",
+      description: "Романтичний захід сонця, що фарбує небо у дивовижні кольори.",
+      image: "https://images.unsplash.com/photo-1444090542259-0af8fa96557e?w=400&h=300&fit=crop"
     }
   ];
+  
+  export default cardsData;
   
